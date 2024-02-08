@@ -18,10 +18,10 @@ Lite Ubuntu
 https://lubuntu.me/jammy-released/
 
 ## Instructions
-first select, download and install one of the above virtual machine providers. After the VM is ready, start a new instance with at least 1 cpu core and 1 gig of ram. Use one of the above operating system releases ISO files as your starting point. Create any username and password. Copy and paste the commands into the terminal to download the wallet, bootstrap and start the graphic wallet. 
+Start by first selecting, downloading and installing one of the above virtual machine providers. After the software is ready, start a new instance with at least 1 cpu core and 1 gig of ram. You will use one of the above operating system releases ISO files as your starting point. Create any username and password. Copy and paste the commands listed on the release of the wallet you wish to run into the terminal to download the wallet, bootstrap and start the graphic wallet automatically.
 
 If this is your first time using virtual machines on windows, check out some videos to see how others do it:
-https://duckduckgo.com/?q=how+to+%22virtualbox%22+%22vmware%22+on+windows&t=ffab&iar=videos&iax=videos&ia=videos
+https://duckduckgo.com/?q=how+to+%22virtualbox%22+%22vmware%22+on+windows
 
 If you still need additional assistance you can ask questions or create a disccusion here:
 https://github.com/realsetvin/blockchain-bootstraps/issues
