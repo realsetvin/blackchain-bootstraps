@@ -1,7 +1,6 @@
 # Blockchain Bootstraps
 This collection of wallets and bootstraps can be used to easily get a new wallet node synchronized on a virtual system with as little as 1 CPU core and 1 gig of RAM. This can even be done on an older laptop running windows, allowing most individuals to participate in your favoritae cryptocurrencies.
 
-# starting a wallet
 The bootstraps included are open for anyone and can be used on any operating system, however the methods in this guide will assume you are using ubuntu from a virtual machine. The wallets have been built from source for the ubuntu operating system and will not directly work on windows. If you are on windows but still want to use these wallets, you can still enjoy the security of linux by dedicating as little as 1 cpu and 1 gig of ram towards a dedicated virtual machines. Select from one of the providers below.
 
 ## Virtual Machine Providers
