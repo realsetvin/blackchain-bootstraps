@@ -10,7 +10,7 @@ https://customerconnect.vmware.com/en/downloads/details?downloadGroup=WKST-PLAYE
 VirtualBox
 https://download.virtualbox.org/virtualbox/7.0.14/VirtualBox-7.0.14-161095-Win.exe
 
-(For maximum preformance on windows 11 - search for the "widows features" options and please ensure that "virtual machine platform" is selected and enabled)
+(For maximum preformance on windows 11 - search for the "windows features" option and please ensure that "virtual machine platform" is selected and enabled)
 
 ## Operating System
 Ubuntu
